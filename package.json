@@ -1,0 +1,1 @@
+{\n  "name": "pema-monorepo",\n  "private": true,\n  "workspaces": ["code/apps/frontend-main", "code/packages/*"]\n}
