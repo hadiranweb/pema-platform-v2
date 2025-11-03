@@ -1,0 +1,1 @@
+-- V1: Create users and products tables
