@@ -1,1 +1,1 @@
-# Business Model & Customer Equity
+# Products, IP, and Operations

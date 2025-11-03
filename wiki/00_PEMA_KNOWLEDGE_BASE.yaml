@@ -1,1 +1,20 @@
-# PEMA Master Knowledge Base
+# PEMA ECOSYSTEM - MASTER KNOWLEDGE BASE (WIKI)
+version: "3.0.0"
+metadata:
+  kb_id: "pema-kb-v3"
+identity:
+  brand_name: "پما"
+  core_essence: "PEMA is a hybrid ecosystem..."
+vision_mission:
+  vision:
+    long_term_statement: "To become a global super-platform..."
+  mission:
+    statement: "We empower everyone to create value..."
+business_model:
+  core_innovation:
+    name: "سهام مشتری‌محور"
+    definition: "A model where a portion of profit from each purchase is automatically converted into tradable equity..."
+emergent_potentials:
+  - potential_id: "EP-001"
+    name: "PEMA as a Launchpad"
+    description: "The PEMA ecosystem can become a platform for launching new phygital projects..."
