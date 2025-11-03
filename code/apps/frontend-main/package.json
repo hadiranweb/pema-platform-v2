@@ -1,0 +1,1 @@
+{\n  "name": "frontend-main",\n  "private": true,\n  "scripts": { "dev": "remix dev" }\n}
