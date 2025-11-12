@@ -1,1 +1,2 @@
-[workspace]\nmembers = ["code/platform/*", "code/apps/*"]
+> .env.example
+echo 

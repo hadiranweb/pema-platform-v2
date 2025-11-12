@@ -1,1 +1,9 @@
-export default function Index() { return <h1>Welcome to PEMA</h1>; }
+import GordafaridGantt from "~/components/GordafaridGantt";
+
+export default function Index() {
+  return (
+    <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
+      <GordafaridGantt />
+    </div>
+  );
+}

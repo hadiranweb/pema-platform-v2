@@ -1,1 +1,2 @@
-{\n  "$schema": "https://turbo.build/schema.json",\n  "pipeline": {}\n}
+> package.json
+echo 

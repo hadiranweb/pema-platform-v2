@@ -1,1 +1,1 @@
-[package]\nname = "marketplace-service"\nversion = "0.1.0"\nedition = "2021"\n\n[dependencies]
+[package]\nname = "marketplace-service"\nversion = "0.1.0"\nedition = "2021"

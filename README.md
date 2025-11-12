@@ -1,2 +1,0 @@
-# PEMA Ecosystem - The Living Monorepo
-We are building a **Living Hybrid Ecosystem** that merges the physical world of knowledge-based production with a decentralized digital platform. This platform, built with **Rust** (Backend) and **Remix** (Frontend), acts as the central nervous system for a production ecosystem, automatically converting profit from physical product sales (like smart coins) into digital equity (NFTs), turning customers into business owners.
