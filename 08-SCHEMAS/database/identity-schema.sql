@@ -1,0 +1,1 @@
+-- SQL schema for identity island (users, auth, roles)

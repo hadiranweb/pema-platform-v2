@@ -1,0 +1,4 @@
+[package]
+name = "{{CELL_NAME}}"
+version = "0.1.0"
+# Template for new cell Cargo.toml

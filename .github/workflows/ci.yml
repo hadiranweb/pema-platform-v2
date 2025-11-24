@@ -1,1 +1,1 @@
-name: CI\non: [push]\njobs:\n  build_and_test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - run: cargo test --workspace\n      - run: pnpm install && pnpm test
+# GitHub Actions workflow for CI (build and test)

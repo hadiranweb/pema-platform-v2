@@ -1,0 +1,1 @@
+-- SQL schema for commerce island (products, orders, payments)

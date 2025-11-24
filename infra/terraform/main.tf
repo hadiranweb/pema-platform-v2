@@ -1,1 +1,1 @@
-# Terraform root configuration
+# Terraform main configuration for cloud infrastructure

@@ -1,0 +1,4 @@
+[package]
+name = "synaptic-hub"
+version = "0.1.0"
+# Synaptic hub package manifest

@@ -1,0 +1,1 @@
+-- SQL schema for finance island (transactions, profit calculations)

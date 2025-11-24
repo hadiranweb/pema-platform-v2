@@ -1,1 +1,1 @@
-version: '3.8'\nservices:\n  db:\n    image: postgres:16\n  cache:\n    image: redis:7\n  broker:\n    image: bitnami/kafka:3.6
+# Docker Compose for local development environment

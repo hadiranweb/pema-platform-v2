@@ -1,0 +1,1 @@
+-- SQL schema for education island (courses, enrollments, certificates)

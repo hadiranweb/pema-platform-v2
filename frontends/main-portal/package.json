@@ -1,0 +1,8 @@
+{
+  "name": "main-portal",
+  "private": true,
+  "scripts": {
+    "dev": "remix dev"
+  }
+}
+# Main portal package configuration
